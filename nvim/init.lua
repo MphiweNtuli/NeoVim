@@ -1,0 +1,7 @@
+require("colorScheme").colorschemee()
+require("vimOpts")
+require("remaps")
+require("languageSetUp/javaInit")
+require("languageSetUp/cppInit")
+require("languageSetUp/zigInit")
+print("Hello")
